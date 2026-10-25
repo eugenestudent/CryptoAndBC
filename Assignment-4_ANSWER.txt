@@ -1,0 +1,14 @@
+Answers
+
+-	Submit the link to the contract deployment transaction on the Blockchain explorer site.
+
+0x8EBD00CC315b6DA2dB37D06420EC398d459493B4
+https://sepolia.arbiscan.io/address/0x8EBD00CC315b6DA2dB37D06420EC398d459493B4
+
+
+
+
+- Submit the link to the second contract's deployment transaction on the Blockchain explorer site.
+
+0xAd71455523999172d25FBd29a925d045006f1Ef9
+https://sepolia.arbiscan.io/address/0xAd71455523999172d25FBd29a925d045006f1Ef9
