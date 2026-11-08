@@ -1,0 +1,14 @@
+/node_modules
+
+/dist
+
+/artifacts
+
+/cache
+
+/types
+
+# Environment files
+.env
+.env.*
+!.env.example
