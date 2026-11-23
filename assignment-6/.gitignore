@@ -1,0 +1,20 @@
+# Node modules
+/node_modules
+
+# Compilation output
+/dist
+
+# Hardhat Build Artifacts
+/artifacts
+
+# Hardhat compilation cache
+/cache
+
+# Typechain generated types
+/types
+
+# Environment files
+.env
+.env.*
+!.env.example
+
